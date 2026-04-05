@@ -2,8 +2,8 @@
 
 I put together this repo to serve as a starting point for what I want in a personal Java project:
 - Java 21
-- Gradle 8.10.2
-- JUnit 5 and AssertJ
+- Gradle 9.4.1
+- JUnit 6 and AssertJ
 - Spotless for formatting
 - Error Prone for static analysis
 - JaCoCo test coverage
